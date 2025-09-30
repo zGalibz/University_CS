@@ -1,3 +1,3 @@
-print("Hello,python!")
-x= 11
+print("Hello,python! LOL")
+x= 12
 print(x)
